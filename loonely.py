@@ -342,5 +342,5 @@ async def give(inter: disnake.AppCmdInter):
 
     await inter.send(view=view)    
 
-#bot.run("MTAzOTUwMzg3NDEzMTc3NTU0OA.G1PW7g.IA7h0oKQvVz-08MduGnnsT74f9bDZ2mckt1ovQ") #Loonely
-bot.run("MTA0NzQ4MzIzMjE5MjU3NzYxNw.GYmNWO.AjuxA6XtVm_t1PtOgGRb6OXozFGsHHw0R04kqY") #LoonelyAuth
+bot.run("") #Loonely
+#bot.run("") #LoonelyCity
